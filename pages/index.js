@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Confie mais em você!</h1>
+    return <h1>Tainara: você é uma pessoa ótima! 😎 </h1>
 }
 
 export default Home;
