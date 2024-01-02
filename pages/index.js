@@ -1,4 +1,4 @@
-import doguinho from "src/img/amigo-Beto.gif";
+import doguinho from "/src/img/amigo-Beto.gif";
 
 function Home() {
   return <h1>Que bom vc por aqui</h1>;
