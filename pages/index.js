@@ -1,5 +1,9 @@
+import doguinho from "src/img/amigo-Beto.gif";
+
 function Home() {
-  return <h1>Você é uma ótima pessoa. Se curtiu, dá uma risadinha 🤓</h1>;
+  return <h1>Que bom vc por aqui</h1>;
+
+  <img src={doguinho} />;
 }
 
 function teste2() {
