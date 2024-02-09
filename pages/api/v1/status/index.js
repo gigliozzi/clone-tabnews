@@ -1,9 +1,9 @@
 function teste(request, response) {
   response.status(200).json([
     {
-      sgl: "Sigla do evento",
-      behavior: "Behavior é a expressão em inglês para comportamento",
-      describe: "Breve descrição do significado de cada SIGLA."
+      sgl: "Event acronym",
+      behavior: "Behavior expression used to describe the behavior of things.",
+      describe: "Short description of the acronym."
     },
     {
       sgl: "AT",
